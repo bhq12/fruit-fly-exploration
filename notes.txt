@@ -1,0 +1,35 @@
+
+
+Example reports:
+
+- Section 1: Data Analysis / any cleansing + normalisation
+
+
+Data paper:
+
+- Organisms generally smaller towards the equator for endotherms
+- For ectothersm, similar variations reported but no concrete
+
+- In Drosophila, latitudinal variation has been found in traits such as:
+
+	- wing length
+	- wing area
+	- thorax length
+	- Reproductive traits, eg ovariole number
+
+
+
+Idea:
+
+- Use:
+	- L2: second longitudinal vein length
+	- L3p: proximal length of third longitudinal vein
+	- L3d: distal length of third longitudinal vein
+	- L3: Third longitudinal vein length
+	- W1: wing width 1
+	- W2: wing width 2
+	- W3: Wing width 3
+	- Thorax length
+
+To predict complex fly classes. i.e. (Species, population, sex)
+

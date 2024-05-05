@@ -1,0 +1,11 @@
+Population,Latitude,Longitude,Altitude_class,Altitude,Year_start,Year_end,Hsr_omega_LL,Hsr_omega_LS,Hsr-omega_SS,N,Frequency_hsr_omega_L,Frequency_hsr_omega_S
+Malanda,-17.31,145.52,high,800,2002,2002,35,66,41,142,0.479,0.521
+Innisfail,-17.50,146.00,low,10,2002,2002,46,63,49,158,0.491,0.509
+Springbrook,-28.23,153.27,high,1031,2002,2002,21,20,10,51,0.608,0.392
+Kingscliff,-28.28,153.12,low,10,2002,2002,71,63,19,153,0.670,0.330
+Coffs_Harbour,-30.37,153.10,low,14,2002,2002,59,35,20,114,0.671,0.329
+Armidale,-30.52,151.68,high,1296,2002,2002,85,39,12,136,0.768,0.232
+Blackheath,-33.63,150.28,high,1046,2002,2002,73,24,3,100,0.850,0.150
+Wollongong,-34.42,150.90,low,10,2002,2002,58,33,7,98,0.760,0.240
+Adaminaby,-35.98,148.77,high,1025,2002,2002,91,14,1,106,0.925,0.075
+Bega,-36.68,149.83,low,60,2002,2002,56,14,2,72,0.875,0.125

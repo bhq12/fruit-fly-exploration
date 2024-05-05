@@ -1,0 +1,21 @@
+[tool.poetry]
+name = "comp3702 week3 practical"
+version = "0.1.0"
+description = ""
+authors = ["Your Name <you@example.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+jupyterlab = "^4.1.2"
+pandas = "^2.2.1"
+seaborn = "^0.13.2"
+scikit-learn = "^1.4.1.post1"
+jupyterlab-vim = "^4.1.3"
+tensorflow = "^2.16.1"
+numpy = "^1.26.4"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
