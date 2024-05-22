@@ -35,3 +35,6 @@ To predict complex fly classes. i.e. (Species, population, sex)
 
 
 NEXT TODO: Implement softmax, then neural networks
+
+
+To explore: ReLu vs. Logistic activation function
