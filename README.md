@@ -4,7 +4,7 @@ An exploration of the effect of cardinality on classification accuracy across a 
 
 [Classification Over Small Datasets with Increasing Cardinality](fruit_fly_report.pdf)
 
-Models Explores:
+Models Explored:
 - Softmax Classifiers
 - Neural Network Classifiers
 - Decision Tree Classifiers
